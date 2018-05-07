@@ -9,15 +9,8 @@ import java.util.Iterator;
 import java.util.Random;
 import java.util.TreeSet;
 
-/**
- *
- * @author student
- */
 public class Zad2 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
 
         int a;
